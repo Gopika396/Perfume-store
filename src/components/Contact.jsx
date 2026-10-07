@@ -57,7 +57,7 @@ function Contact() {
 
               <div className="contact-detail">
                 <h5>PHONE</h5>
-                <p>+91 98765 43210</p>
+                <p>+91 74117 87329</p>
               </div>
 
               <div className="contact-detail">
@@ -153,7 +153,7 @@ function Footer() {
             <h5>CONTACT</h5>
 
             <p>hello@noireperfumes.com</p>
-            <p>+91 98765 43210</p>
+            <p>+91 74117 87329</p>
 
           </div>
 
